@@ -25,4 +25,4 @@ jobs:
         server: ftp.cyberhernando.com
         username: cyberhernando
         password: ${{ secrets.password }}
-        server-dir: /domains/ctfd.cyberhernando.com/public_html
+        server-dir: /domains/ctfd.cyberhernando.com/public_html/
